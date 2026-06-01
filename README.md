@@ -14,3 +14,9 @@ This repo is more than code—it’s a snapshot of my growth as a developer.
 - ASP.NET MVC
 - Entity Framework
 - SQL Server
+
+## Projects:
+- OOP principles (inheritance, polymorphism, interfaces)
+- ASP.NET MVC applications with controllers, views, and SQL Server integration
+- CRUD operations, form validation, and business logic examples
+- Featured project: Car Insurance Quote App
